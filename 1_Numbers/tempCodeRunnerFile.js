@@ -1,1 +1,2 @@
-12.34
+
+    return Math.random()*((max-min)+1)
